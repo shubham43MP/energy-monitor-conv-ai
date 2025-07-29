@@ -31,3 +31,10 @@ Validation Error Count: 1
 2025-07-25 14:20:23 | ERROR | ❌ Failed to connect to DB via Prisma: PrismaClientInitializationError: Authentication failed against database server, the provided database credentials for `postgres` are not valid.
 
 Please make sure to provide valid database credentials for the database server at the configured address.
+2025-07-28 14:31:30 | ERROR | Groq API error: Failed to parse URL from undefined
+2025-07-28 14:35:29 | ERROR | Groq API responded with error: {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+2025-07-28 14:35:29 | ERROR | Groq API error: Invalid API Key
+2025-07-28 14:37:01 | ERROR | Groq API responded with error: {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+2025-07-28 14:37:01 | ERROR | Groq API error: Invalid API Key
+2025-07-28 14:37:50 | ERROR | Groq API responded with error: {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+2025-07-28 14:37:50 | ERROR | Groq API error: Invalid API Key
